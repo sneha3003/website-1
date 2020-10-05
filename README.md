@@ -26,7 +26,6 @@ Remember, it's ok to start small. The point is to get open source on the company
 
 This initiative was launched at [ReactConfAU 2020](https://reactconfau.com/) by [@jedwatson](https://twitter.com/jedwatson) and [@borisbozic](https://twitter.com/borisbozic) from [Thinkmill](https://twitter.com/thethinkmill). You can watch [Jeds talk](https://reactconfau.com/talks/the-value-of-open-source) online.
 
-
 ## Supporting Organizations
 
 Below is a list of companies and teams that have committed line items on their budgets to support open source.
